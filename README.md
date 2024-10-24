@@ -10,6 +10,8 @@
 -What is the total number of units sold by product category and gender type?  
 -Which sales method is the most effective in generating sales?  
 -How does the sales data vary by region, state and city?  
+Dashboard:  
+
 ##Insights:  
 -120 Million sale and 47 Million Profit.  
 -Top 2 performing cities in terms of profit are Charleston and New York.  
