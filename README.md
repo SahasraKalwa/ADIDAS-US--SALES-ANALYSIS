@@ -1,6 +1,6 @@
 # ADIDAS-US--SALES-ANALYSIS
 ##Objective:
--Adidas wants to analyze sales data to provide insights and recommendations to increase sales.
+-Adidas wants to analyze sales data to provide insights and recommendations to increase sales.  
 #Dataset used:
 -<a href="https://github.com/SahasraKalwa/ADIDAS-US--SALES-ANALYSIS/blob/main/Adidas_Sales_PracticeSet-5_dataset.xlsx">// Dataset link </a>
 ##Questions
